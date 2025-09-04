@@ -2,16 +2,16 @@
 A simple and lightweight To-Do List app built using HTML, CSS, and JavaScript. It allows users to add, delete, and mark tasks as completed. The app features a clean and responsive UI with real-time task updates, making it perfect for beginners exploring web development.
 
 **Features**
--Add new tasks
--Delete existing tasks
--Mark tasks as completed
--Responsive and clean user interface
--Real-time updates on task status
+- Add new tasks
+- Delete existing tasks
+- Mark tasks as completed
+- Responsive and clean user interface
+- Real-time updates on task status
 
 **Tech Stack**
--HTML
--CSS
--JavaScript
+- HTML
+- CSS
+- JavaScript
 
 Project Structure
 - index.html       # Main HTML file
