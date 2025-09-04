@@ -20,13 +20,17 @@ Project Structure
 - README.md        # Project documentation
 
 **Usage**
+
 Simply open the index.html file in any modern web browser to start managing your tasks.
 
 **Installation**
+
 No installation required! This project is a frontend-only app and runs directly in the browser.
 
 **Contributing**
+
 Contributions are welcome! Feel free to fork the repo and submit pull requests.
 
 **License**
+
 This project is licensed under the MIT License.
